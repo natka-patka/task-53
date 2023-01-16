@@ -1,4 +1,4 @@
-import "../scss/app.scss";
+// import "../scss/app.scss";
 function myFunction() {
   var element = document.getElementsByClassName(".product");
   element.classList.add("data-price");
